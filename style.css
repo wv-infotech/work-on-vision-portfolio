@@ -1134,3 +1134,108 @@ footer > a {
     border-color: #5146f0;
     color: #fff;
 }
+
+/* TravelTech */
+.traveltech-image {
+    background: linear-gradient(135deg, #243b55, #141e30);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.traveltech-mockup {
+    text-align: center;
+    color: #fff;
+    padding: 50px 20px;
+}
+
+.traveltech-mockup h2 {
+    font-size: 38px;
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+}
+
+.traveltech-mockup span {
+    font-size: 12px;
+    letter-spacing: 3px;
+    color: #c5cfff;
+}
+
+
+/* StaySuite */
+.hotel-image {
+    background: linear-gradient(135deg, #e8d5bd, #b88d6a);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hotel-mockup {
+    text-align: center;
+    color: #422f24;
+    padding: 50px 20px;
+}
+
+.hotel-mockup h2 {
+    font-size: 38px;
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+}
+
+.hotel-mockup span {
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+
+
+/* TravelDesk */
+.travelcrm-image {
+    background: linear-gradient(135deg, #d9d7ff, #8b83ff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.travelcrm-mockup {
+    text-align: center;
+    color: #16152c;
+    padding: 50px 20px;
+}
+
+.travelcrm-mockup h2 {
+    font-size: 38px;
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+}
+
+.travelcrm-mockup span {
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+
+
+/* StockFlow */
+.inventory-image {
+    background: linear-gradient(135deg, #183e3a, #275e53);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inventory-mockup {
+    text-align: center;
+    color: #fff;
+    padding: 50px 20px;
+}
+
+.inventory-mockup h2 {
+    font-size: 38px;
+    letter-spacing: 4px;
+    margin-bottom: 12px;
+}
+
+.inventory-mockup span {
+    font-size: 12px;
+    letter-spacing: 3px;
+    color: #b9e7d8;
+}
